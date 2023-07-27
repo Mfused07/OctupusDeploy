@@ -1,0 +1,7 @@
+#Nodey stuff
+node_modules
+
+#IDE
+.idea
+
+.package-lock.json
